@@ -1,4 +1,4 @@
-## Temperature calculator
+## Javascript temperature calculator
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Tools](#tools)
@@ -6,18 +6,17 @@
 * [Working Page](#working-page)
 
 ## General info
-Temperature calculator
+Javascript temperature calculator 
 
 ## Technologies
 Project is created with:
 * HTML5
 * CSS3
-* Preprocessor SASS
+* Javascript
 
 ## Tools
 The following tools were used
 * Webstorm
-* Affinity Photo
 * Git
 
 ## Screen 

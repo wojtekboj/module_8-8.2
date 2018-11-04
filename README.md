@@ -21,7 +21,7 @@ The following tools were used
 
 ## Screen 
 
-![Screen](https://github.com/wojtekboj/module_8-8.2/blob/master/images/screencapture.jpg)
+![Screen](https://github.com/wojtekboj/module_8-8.2/blob/master/images/screencapture.png)
 
 ## Working Page
 https://wojtekboj.github.io/module_8-8.2/index.html
